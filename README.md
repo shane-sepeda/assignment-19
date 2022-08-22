@@ -2,7 +2,7 @@
 Budget Tracker
 
 # Description
-Weather dashboard for traveling
+Fast and easy budget tracker
 
 # User Story
 AS AN avid traveler
@@ -20,4 +20,9 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 # Screenshot
 
+
 # Repository
+https://github.com/shane-sepeda/assignment-19
+
+# Deployed Webpage
+https://thawing-island-16708.herokuapp.com/
